@@ -2,7 +2,7 @@
   "name": "@uniswap/widgets",
   "version": "1.0.7",
   "description": "Uniswap Interface",
-  "homepage": "ZdayAlster.github.io/Wu2Uniswap",
+  "homepage": "https://ZdayAlster.github.io/Wu2Uniswap",
   "license": "GPL-3.0-or-later",
   "scripts": {
     "contracts:compile:abi": "typechain --target ethers-v5 --out-dir src/abis/types \"./src/abis/**/*.json\"",
