@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/Wu2Uniswap/static/js/main.30e8ada2.chunk.js",
-    "main.js.map": "/Wu2Uniswap/static/js/main.30e8ada2.chunk.js.map",
-    "runtime-main.js": "/Wu2Uniswap/static/js/runtime-main.10a0b163.js",
-    "runtime-main.js.map": "/Wu2Uniswap/static/js/runtime-main.10a0b163.js.map",
+    "main.js": "/Wu2Uniswap/static/js/main.9cf4f4d1.chunk.js",
+    "main.js.map": "/Wu2Uniswap/static/js/main.9cf4f4d1.chunk.js.map",
+    "runtime-main.js": "/Wu2Uniswap/static/js/runtime-main.c3516fef.js",
+    "runtime-main.js.map": "/Wu2Uniswap/static/js/runtime-main.c3516fef.js.map",
     "static/css/2.18f02229.chunk.css": "/Wu2Uniswap/static/css/2.18f02229.chunk.css",
-    "static/js/2.c589911f.chunk.js": "/Wu2Uniswap/static/js/2.c589911f.chunk.js",
-    "static/js/2.c589911f.chunk.js.map": "/Wu2Uniswap/static/js/2.c589911f.chunk.js.map",
+    "static/js/2.82fd0f85.chunk.js": "/Wu2Uniswap/static/js/2.82fd0f85.chunk.js",
+    "static/js/2.82fd0f85.chunk.js.map": "/Wu2Uniswap/static/js/2.82fd0f85.chunk.js.map",
     "static/js/3.6e2a4c82.chunk.js": "/Wu2Uniswap/static/js/3.6e2a4c82.chunk.js",
     "static/js/3.6e2a4c82.chunk.js.map": "/Wu2Uniswap/static/js/3.6e2a4c82.chunk.js.map",
     "static/js/4.fc4e620b.chunk.js": "/Wu2Uniswap/static/js/4.fc4e620b.chunk.js",
     "static/js/4.fc4e620b.chunk.js.map": "/Wu2Uniswap/static/js/4.fc4e620b.chunk.js.map",
-    "static/js/5.8a9869a0.chunk.js": "/Wu2Uniswap/static/js/5.8a9869a0.chunk.js",
-    "static/js/5.8a9869a0.chunk.js.map": "/Wu2Uniswap/static/js/5.8a9869a0.chunk.js.map",
+    "static/js/5.937d0c97.chunk.js": "/Wu2Uniswap/static/js/5.937d0c97.chunk.js",
+    "static/js/5.937d0c97.chunk.js.map": "/Wu2Uniswap/static/js/5.937d0c97.chunk.js.map",
     "static/js/6.3c69c890.chunk.js": "/Wu2Uniswap/static/js/6.3c69c890.chunk.js",
     "static/js/6.3c69c890.chunk.js.map": "/Wu2Uniswap/static/js/6.3c69c890.chunk.js.map",
     "static/js/7.b95418fd.chunk.js": "/Wu2Uniswap/static/js/7.b95418fd.chunk.js",
@@ -85,7 +85,7 @@
     "service-worker.js": "/Wu2Uniswap/service-worker.js",
     "service-worker.js.map": "/Wu2Uniswap/service-worker.js.map",
     "static/css/2.18f02229.chunk.css.map": "/Wu2Uniswap/static/css/2.18f02229.chunk.css.map",
-    "static/js/2.c589911f.chunk.js.LICENSE.txt": "/Wu2Uniswap/static/js/2.c589911f.chunk.js.LICENSE.txt",
+    "static/js/2.82fd0f85.chunk.js.LICENSE.txt": "/Wu2Uniswap/static/js/2.82fd0f85.chunk.js.LICENSE.txt",
     "static/js/3.6e2a4c82.chunk.js.LICENSE.txt": "/Wu2Uniswap/static/js/3.6e2a4c82.chunk.js.LICENSE.txt",
     "static/js/4.fc4e620b.chunk.js.LICENSE.txt": "/Wu2Uniswap/static/js/4.fc4e620b.chunk.js.LICENSE.txt",
     "static/media/inter.css": "/Wu2Uniswap/static/media/Inter.var.9df5db38.woff2",
@@ -111,9 +111,9 @@
     "static/media/xl_uni.9c9e061b.png": "/Wu2Uniswap/static/media/xl_uni.9c9e061b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.10a0b163.js",
+    "static/js/runtime-main.c3516fef.js",
     "static/css/2.18f02229.chunk.css",
-    "static/js/2.c589911f.chunk.js",
-    "static/js/main.30e8ada2.chunk.js"
+    "static/js/2.82fd0f85.chunk.js",
+    "static/js/main.9cf4f4d1.chunk.js"
   ]
 }
